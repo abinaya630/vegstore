@@ -23,7 +23,7 @@ font-family: 'Poppins', sans-serif;
 }
 .mainp
 {
-	background-image: url(images/headimg.jpg);
+	background-image: url(headimg.jpg);
 	background-size: cover;
 	background-position: center;
 	width:100%;
@@ -292,7 +292,7 @@ font-family: 'Poppins', sans-serif;
 }
 .part1
 {
-	background-image: url(images/footimg.jpg);
+	background-image: url(footimg.jpg);
 	background-size: cover;
 	background-position: center;
 	height:400px;
